@@ -56,7 +56,7 @@ function HomePage() {
         <div className="container about-row">
           <div className="about-text-container">
             <h2 className="highlight-title">Welcome to Friends of Carleton Rugby</h2>
-            <p className="about-text">Friends of Carleton Rugby is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Genesis Community Llc – from casual games and productivity tools to educational and lifestyle applications.
+            <p className="about-text">Friends of Carleton Rugby is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Friends of Carleton Rugby – from casual games and productivity tools to educational and lifestyle applications.
             </p>
           </div>
           <div className="about-img-container">
